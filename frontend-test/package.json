@@ -14,7 +14,6 @@
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "tailwindcss": "^4.1.18",
     "zustand": "^5.0.10"
   },
   "devDependencies": {
@@ -23,7 +22,6 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "autoprefixer": "^10.4.23",
     "eslint": "^9.39.2",
     "eslint-config-next": "16.1.6",
     "eslint-config-prettier": "^10.1.8",
@@ -31,8 +29,8 @@
     "eslint-plugin-react": "^7.37.5",
     "globals": "^17.2.0",
     "jiti": "^2.6.1",
-    "postcss": "^8.5.6",
     "prettier": "^3.8.1",
+    "tailwindcss": "^4",
     "typescript": "^5",
     "typescript-eslint": "^8.54.0"
   }
