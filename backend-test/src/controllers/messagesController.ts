@@ -18,7 +18,6 @@ export async function sendMessage(req, res, next) {
         },
       }
     )
-    console.log(responce.data.choices[0].message.content)
 
     const answer = responce.data.choices[0].message.content
 
